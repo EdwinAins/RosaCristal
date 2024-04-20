@@ -1,2 +1,2 @@
 # RosaCristal
-UNa Rosa Roja dentro de un cristal
+Una Rosa Roja dentro de un cristal
